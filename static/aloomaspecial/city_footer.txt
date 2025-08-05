@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Can I put anything I want in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Almost. You can throw in most common household junk and construction debris. However, we cannot accept hazardous materials like paint, chemicals, oils, asbestos, or flammable liquids.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I put the dumpster on the street?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Maybe. It depends on your local city or township. Most public streets require a special permit issued by the municipality. It's your responsibility to secure that permit before we deliver. It's much easier to put it on your own property.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> What if the storm knocked down trees and part of my house? Can it all go in one dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. You can mix organic debris like trees and branches with construction debris like wood, shingles, and siding all in the same roll off dumpster.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much does waterlogged debris really weigh?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A lot more than you think. A standard sheet of drywall can more than double in weight when soaked. Waterlogged carpet is incredibly heavy. This is why it’s important to get the right size dumpster; the weight can add up fast. We’ll help you choose the right can for the job.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the most common mistake your customers make?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Trying to save a hundred bucks by ordering a dumpster that's too small. It's a classic blunder. You end up needing a second dumpster, which costs you way more in the long run. If you're not sure, go with the bigger size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I pay for the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We typically take payment via credit card when you place your order. This streamlines the process so you don't have to worry about being there with a check for delivery or getting a bill in the mail later. It’s all handled upfront.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
